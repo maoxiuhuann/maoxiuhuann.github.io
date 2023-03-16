@@ -8,7 +8,7 @@
       <link href="/post/5e4725d8.html"/>
       <url>/post/5e4725d8.html</url>
       
-        <content type="html"><![CDATA[<p>拿到这本书的第一刻便是不好的印象，快递送过来时有明显的压痕，翻开书本一看，密密麻麻的字体实在打击了我阅读的热情，暗自心生不悦。开始阅读感觉到的是枯燥难懂，里面的人名多而杂，让我想起了外国小说那样多的人名。而且主要话题是我不甚了解的民族经济与资本，我在前期看的时候一头雾水，有些不知所云，但其文学性毋庸置疑，茅盾将“子夜”——黎明前最黑暗，最难熬的时段描述的生动详尽。整篇文章描述了以吴荪甫为代表的民族资本家渴望兴起实业，支持国产最后失败破产的经历，我虽不懂经济，但茅盾的文笔将风起云涌，衰落破败，前途灰暗的紧张形势呈现在读者面前，民族资本家们有反扑，抗争，却最后被敌人联合外国资本一步步蚕食直至破产，多次看见胜利的曙光却最后还是失败，读者能够感受到当时环境的煎熬险恶，前途渺茫，这是茅盾对于当时“民族资本家能否救国”的答案。</p>]]></content>
+        <content type="html"><![CDATA[<p><strong>拿到这本书的第一刻便是不好的印象，快递送过来时有明显的压痕，翻开书本一看，密密麻麻的字体实在打击了我阅读的热情，暗自心生不悦。开始阅读感觉到的是枯燥难懂，里面的人名多而杂，让我想起了外国小说那样多的人名。而且主要话题是我不甚了解的民族经济与资本，我在前期看的时候一头雾水，有些不知所云，但其文学性毋庸置疑，茅盾将“子夜”——黎明前最黑暗，最难熬的时段描述的生动详尽。整篇文章描述了以吴荪甫为代表的民族资本家渴望兴起实业，支持国产最后失败破产的经历，我虽不懂经济，但茅盾的文笔将风起云涌，衰落破败，前途灰暗的紧张形势呈现在读者面前，民族资本家们有反扑，抗争，却最后被敌人联合外国资本一步步蚕食直至破产，多次看见胜利的曙光却最后还是失败，读者能够感受到当时环境的煎熬险恶，前途渺茫，这是茅盾对于当时“民族资本家能否救国”的答案。</strong></p>]]></content>
       
       
       <categories>
@@ -98,19 +98,6 @@
             <tag> 阅读 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/post/4a17b156.html"/>
-      <url>/post/4a17b156.html</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
