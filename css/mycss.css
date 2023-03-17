@@ -93,3 +93,13 @@
     pointer-events: none;
     z-index: -1;
 }
+
+/*�ֻ���ë�����Ż�*/
+#sidebar #sidebar-menus.open {
+    background: rgba(255,255,255,0.5);
+    backdrop-filter: blur(10px);
+}
+
+#sidebar #menu-mask {
+    background: rgba(255,255,255,0);
+}
