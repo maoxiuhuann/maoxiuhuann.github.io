@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>CTF-Crypto学习做题(1)</title>
+      <link href="/post/66a4d991.html"/>
+      <url>/post/66a4d991.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="题目一：-bash"><a href="#题目一：-bash" class="headerlink" title="题目一：@bash"></a>题目一：@bash</h2><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><p>根据题目提示可知考察埃特巴士码，解密得到flag</p><p><img src="https://raw.githubusercontent.com/maoxiuhuann/Picgo/main/images/20230322110822.png"></p><p><img src="https://raw.githubusercontent.com/maoxiuhuann/Picgo/main/images/20230322110831.png"></p><h2 id="题目二：0x36d"><a href="#题目二：0x36d" class="headerlink" title="题目二：0x36d"></a>题目二：0x36d</h2><h3 id="1-1"><a href="#1-1" class="headerlink" title="1."></a>1.</h3><p>打开题目是一串颜文字，可知base100加密，可是普通的base100解密网站无法解密成功，之前没有见过这样的题目，根据提示可知应该是需要使用密码的base100解密</p><p><img src="https://raw.githubusercontent.com/maoxiuhuann/Picgo/main/images/20230322111217.png"></p><p><img src="https://raw.githubusercontent.com/maoxiuhuann/Picgo/main/images/20230322111342.png"></p><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><p>在网上看了别人的WP找到了解密网站，解密成功。</p><p>原帖链接：<a href="https://blog.csdn.net/m0_64815693/article/details/127835745">https://blog.csdn.net/m0_64815693/article/details/127835745</a>   </p><p>解密网站链接：<a href="https://txtmoji.com/">https://txtmoji.com/</a></p><p><img src="https://raw.githubusercontent.com/maoxiuhuann/Picgo/main/images/20230322111434.png"></p><h2 id="题目三：密码签到"><a href="#题目三：密码签到" class="headerlink" title="题目三：密码签到"></a>题目三：密码签到</h2><h3 id="1-2"><a href="#1-2" class="headerlink" title="1."></a>1.</h3><p>简单的签到题，16进制解密得到flag</p><p><img src="https://raw.githubusercontent.com/maoxiuhuann/Picgo/main/images/20230322111805.png"></p><p><img src="https://raw.githubusercontent.com/maoxiuhuann/Picgo/main/images/20230322111850.png"></p><h2 id="题目四：base64"><a href="#题目四：base64" class="headerlink" title="题目四：base64"></a>题目四：base64</h2><h3 id="1-3"><a href="#1-3" class="headerlink" title="1."></a>1.</h3><p>简单的base64解密即可得到flag</p><p><img src="https://raw.githubusercontent.com/maoxiuhuann/Picgo/main/images/20230322111956.png"></p><p><img src="https://raw.githubusercontent.com/maoxiuhuann/Picgo/main/images/20230322112003.png"></p><h2 id="题目五：broadcast"><a href="#题目五：broadcast" class="headerlink" title="题目五：broadcast"></a>题目五：broadcast</h2><h3 id="1-4"><a href="#1-4" class="headerlink" title="1."></a>1.</h3><p>下载附件，打开py文件查看源代码得到flag</p><p><img src="https://raw.githubusercontent.com/maoxiuhuann/Picgo/main/images/20230322115536.png"></p><p><img src="https://raw.githubusercontent.com/maoxiuhuann/Picgo/main/images/20230322115544.png"></p><p><img src="https://raw.githubusercontent.com/maoxiuhuann/Picgo/main/images/20230322115626.png"></p><h2 id="题目六：Caesar"><a href="#题目六：Caesar" class="headerlink" title="题目六：Caesar"></a>题目六：Caesar</h2><h3 id="1-5"><a href="#1-5" class="headerlink" title="1."></a>1.</h3><p>简单恺撒密码，解密工具解密得到flag</p><p><img src="https://raw.githubusercontent.com/maoxiuhuann/Picgo/main/images/20230322115746.png"></p><p><img src="https://raw.githubusercontent.com/maoxiuhuann/Picgo/main/images/20230322115755.png"></p><h3 id="题目七：crypto垃圾邮箱"><a href="#题目七：crypto垃圾邮箱" class="headerlink" title="题目七：crypto垃圾邮箱"></a>题目七：crypto垃圾邮箱</h3><h3 id="1-6"><a href="#1-6" class="headerlink" title="1."></a>1.</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> CTF </category>
+          
+          <category> Crypto </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CTF </tag>
+            
+            <tag> Crypto </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>CTF WEB学习做题(1)</title>
       <link href="/post/f2c4d3c5.html"/>
       <url>/post/f2c4d3c5.html</url>
@@ -13,14 +42,18 @@
       
       <categories>
           
-          <category> -CTF&#39;-Web </category>
+          <category> CTF </category>
+          
+          <category> Web </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -CTF&#39;-Web </tag>
+            <tag> CTF </tag>
+            
+            <tag> Web </tag>
             
         </tags>
       
